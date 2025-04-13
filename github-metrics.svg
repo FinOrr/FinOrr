@@ -1708,7 +1708,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>feaser/libmicroblt</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A microcontroller optimized version of LibOpenBLT for performing firmware updates on another microcontroller running the OpenBLT bootloader.</div>
@@ -1761,7 +1761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcu-tools/mcuboot</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure boot for 32-bit Microcontrollers!</div>
@@ -1861,7 +1861,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2025, 13:09:31 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2025, 19:11:09 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
