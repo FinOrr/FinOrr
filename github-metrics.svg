@@ -1604,7 +1604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lvgl/lv_port_riverdi_101-stm32h7</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unkaktus/bearssl</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BearSSL with some bits [see branch upstream for upstream]</div>
@@ -1852,7 +1852,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2025, 19:12:09 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2025, 01:09:43 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
